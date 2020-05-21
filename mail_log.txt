@@ -1,0 +1,16 @@
+﻿
+Welcome to use fileWatch System
+pid=7232
+can set process name!
+new file or file has been changed with e:/NMEA/2020-05-21 16.txt
+17161PHP Warning:  filesize(): stat failed for e:/NMEA/2020-05-21 16.txt in E:\mail-kt\index.php on line 168
+
+Warning: filesize(): stat failed for e:/NMEA/2020-05-21 16.txt in E:\mail-kt\index.php on line 168
+Message could not be sent. Mailer Error: Could not access file: e:/NMEA/2020-05-21 16.txtnew file or file has been changed with e:/NMEA/2020-05-21 121216.txt
+17121216ignored because of fileName
+new file or file has been changed with e:/NMEA/2020-05-21 20.txt
+1720ignored because of hour
+new file or file has been changed with e:/NMEA/2020-05-21 20.txt
+1720ignored because of hour
+new file or file has been changed with e:/NMEA/2020-05-21 15.txt
+17151Message has been sent
